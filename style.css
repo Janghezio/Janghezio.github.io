@@ -17,5 +17,6 @@ h2 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 1em;
     background-color: hsl(0, 0%, 100%);
 }
