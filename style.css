@@ -1,7 +1,7 @@
 body {
     background-color: hsl(212, 45%, 89%);
     font-family: "Outfit", sans-serif;
-    font-weight: 700;
+    font-weight: 400;
     text-align: center;
     margin: auto;
 }
@@ -27,8 +27,8 @@ img {
     background-color: hsl(0, 0%, 100%);
 }
 
-@media (min-width: 375px){
+@media (min-width: 1440px){
     body {
-        font-weight: 400;
+        font-weight: 700;
     }
 }
