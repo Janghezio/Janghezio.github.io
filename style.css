@@ -16,5 +16,6 @@ h2 {
 
 .container {
     padding: 1em;
+    border-radius: 10px;
     background-color: hsl(0, 0%, 100%);
 }
