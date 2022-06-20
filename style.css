@@ -2,6 +2,7 @@ body {
     background-color: hsl(212, 45%, 89%);
     font-family: "Outfit", sans-serif;
     text-align: center;
+    margin: auto;
 }
 
 p {
@@ -18,14 +19,6 @@ img {
 }
 
 .container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
-}
-
-.item {
     width: 300px;
     margin: auto;
     padding: 1em;
