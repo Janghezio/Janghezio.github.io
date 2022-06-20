@@ -13,11 +13,6 @@ h2 {
 }
 
 .container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    width: 150px;
     padding: 1em;
     background-color: hsl(0, 0%, 100%);
 }
