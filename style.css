@@ -1,9 +1,10 @@
 body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: hsl(212, 45%, 89%);
     font-family: "Outfit", sans-serif;
     text-align: center;
-    margin-top: auto;
-    margin: auto;
 }
 
 p {
