@@ -1,6 +1,7 @@
 body {
     background-color: hsl(212, 45%, 89%);
     font-family: "Outfit", sans-serif;
+    font-weight: 700;
     text-align: center;
     margin: auto;
 }
@@ -24,4 +25,10 @@ img {
     padding: 1em;
     border-radius: 20px;
     background-color: hsl(0, 0%, 100%);
+}
+
+@media (min-width: 375px){
+    body {
+        font-weight: 400;
+    }
 }
