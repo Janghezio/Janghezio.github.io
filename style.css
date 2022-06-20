@@ -5,4 +5,13 @@ body {
 
 p {
     font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
+
+h2 {
+    color: hsl(218, 44%, 22%);
+}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
 }
