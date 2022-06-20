@@ -23,7 +23,7 @@ img {
     align-items: center;
 
     width: 375;
-    height: 900px;
+    padding: 5em;
     background-color: hsl(212, 45%, 89%);
 }
 
