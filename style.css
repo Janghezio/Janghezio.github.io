@@ -1,16 +1,18 @@
 body {
     background-color: hsl(212, 45%, 89%);
     font-family: "Outfit", sans-serif;
-    text-align: center;
+    
     margin: auto;
 }
 
 p {
     font-size: 15px;
     color: hsl(220, 15%, 55%);
+    text-align: center;
 }
 
 h2 {
+    text-align: center;
     color: hsl(218, 44%, 22%);
 }
 
